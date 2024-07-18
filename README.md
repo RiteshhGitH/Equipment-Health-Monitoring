@@ -18,7 +18,7 @@
 ## Overview
 The Equipment Health Monitoring project aims to provide a comprehensive solution for monitoring and assessing the health of various equipment in real-time. By leveraging sensor data and advanced algorithms, the system can predict potential failures and maintenance needs, thereby minimizing downtime and improving operational efficiency.
 
-![Overview](images/overview.png)
+![Overview](Asset_Images/overview.png)
 
 ## Features
 - Real-time monitoring of equipment health
@@ -27,7 +27,7 @@ The Equipment Health Monitoring project aims to provide a comprehensive solution
 - User-friendly interface
 - Scalable and customizable architecture
 
-![Features](images/features.png)
+![Features](Asset_Images/features.png)
 
 ## Technologies Used
 - **Hardware:** Node Red, Mosquitto, MQTT, ESP-IDF, Sensors, Open Source MicroControllers
