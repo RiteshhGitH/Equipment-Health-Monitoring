@@ -11,8 +11,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview 🔍🔍
@@ -80,15 +78,6 @@ Here are some screenshots of the application:
 
 ![Analytics](Asset_Images/img1.png)
 *Analytics view providing detailed reports and insights.*
-
-## Contributing
-Contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/YourFeatureName`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/YourFeatureName`
-5. Open a pull request.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
