@@ -15,28 +15,26 @@
 - [License](#license)
 - [Contact](#contact)
 
-## Overview
+## Overview 🔍🔍
 The Equipment Health Monitoring project aims to provide a comprehensive solution for monitoring and assessing the health of various equipment in real-time. By leveraging sensor data and advanced algorithms, the system can predict potential failures and maintenance needs, thereby minimizing downtime and improving operational efficiency.
 
-![Overview](Asset_Images/overview.png)
-
-## Features
+## Features 🚀🚀
 - Real-time monitoring of equipment health
 - Predictive maintenance alerts
 - Detailed analytics and reporting
 - User-friendly interface
 - Scalable and customizable architecture
 
-![Features](Asset_Images/features.png)
 
-## Technologies Used
+## Technologies Used 👨🏻‍💻👨🏻‍💻
+
 - **Hardware:** Node Red, Mosquitto, MQTT, ESP-IDF, Sensors, Open Source MicroControllers
 - **Backend:** Python, Flask, Express JS, Node JS
 - **Frontend:** HTML, CSS, JavaScript, React JS
 - **Database:** SQLite
 - **Others:** Pandas, NumPy, Matplotlib
 
-## Installation
+## Installation 💻 💿
 To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
