@@ -21,7 +21,7 @@ The Equipment Health Monitoring project aims to provide a comprehensive solution
 - Predictive maintenance alerts
 - Detailed analytics and reporting
 - User-friendly interface
-- Over the Air Firmware Updated to EHM Devices
+- Over the Air Firmware Updates to EHM Devices
 - Scalable and customizable architecture
 
 
