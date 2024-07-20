@@ -14,13 +14,14 @@
 - [Contact](#contact)
 
 ## Overview 🔍🔍
-The Equipment Health Monitoring project aims to provide a comprehensive solution for monitoring and assessing the health of various equipment in real-time. By leveraging sensor data and advanced algorithms, the system can predict potential failures and maintenance needs, thereby minimizing downtime and improving operational efficiency.
+The Equipment Health Monitoring project aims to provide a comprehensive solution for monitoring and assessing the health of various equipment in real-time. By leveraging sensor data and advanced algorithms, the system can predict potential failures and maintenance needs, thereby minimizing downtime and improving operational efficiency.The system also has the capability to take firmware updates and its maintainance updates over the air , through the network.
 
 ## Features 🚀🚀
 - Real-time monitoring of equipment health
 - Predictive maintenance alerts
 - Detailed analytics and reporting
 - User-friendly interface
+- Over the Air Firmware Updated to EHM Devices
 - Scalable and customizable architecture
 
 
