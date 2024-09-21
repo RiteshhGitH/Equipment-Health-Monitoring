@@ -8,7 +8,7 @@ app = Flask(__name__)
 #============= Update New Build Data Here =================# 
 
 target_file_path = './firmware/new_firmware.bin'
-company_name='IEMA'
+company_name='COMPANY'
 build_num = 2
 build_date = '14/02/2024'
 API_KEY='THIS_IS_A_KEY'
